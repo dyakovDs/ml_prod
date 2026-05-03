@@ -6,7 +6,6 @@ data_for_training.csv
 data/
 
 # Trained models (regenerated via train_model.py)
-models/*.pkl
 models/*.onnx
 
 # Python cache
