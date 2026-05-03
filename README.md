@@ -225,3 +225,15 @@ Expected Loss = P(default) × LIMIT_BAL × LGD   (LGD ≈ 0.45)
 ```
 
 **Approval Rate** — доля одобренных заявок при фиксированной доле дефолтов ≤ 10%. v2 с более высоким ROC-AUC одобрит больше хороших клиентов при том же уровне риска.
+
+
+
+
+
+## Демонстрация работы
+<img width="556" height="44" alt="image" src="https://github.com/user-attachments/assets/d9be5532-43a9-4af1-90e1-3892f14a60cf" />
+
+<img width="564" height="142" alt="image" src="https://github.com/user-attachments/assets/1ecc5edd-c448-4b4b-87bd-7d68cbe66659" />
+
+
+
