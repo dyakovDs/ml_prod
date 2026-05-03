@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Data (large files)
+data_for_training.csv
+data/
+
+# Trained models (regenerated via train_model.py)
+models/*.pkl
+models/*.onnx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Notebooks checkpoints
+.ipynb_checkpoints/

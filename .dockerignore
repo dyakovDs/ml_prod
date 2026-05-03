@@ -1,0 +1,29 @@
+# окружение
+.venv/
+
+# Данные (не нужны для инференса)
+data/
+data_for_training.csv
+
+# EDA
+notebooks/
+eda.ipynb
+
+# Тесты (не нужны для инференса)
+tests/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Git
+.git/
+.gitignore
